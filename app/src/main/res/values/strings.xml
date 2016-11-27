@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySQL GridView Bool</string>
+    <string name="action_settings">Settings</string>
+</resources>
